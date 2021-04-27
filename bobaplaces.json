@@ -1,0 +1,32 @@
+{
+  "BobaPlaces":
+  [
+    {
+     "PlaceID": 1,
+     "PlaceAddress":"11211 F, Lee Hway, Fairfax, VA 22030",
+     "PlacePhone":"(301) 655-0837",
+     "PlaceHours": "1 PM - 8 PM",
+     "PlaceImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+     "PlaceMenu":"https://www.1992sharetea.com/menu/",
+     "PlaceDescription": "Place Description Text"},
+
+     {
+     "PlaceID": 2,
+     "PlaceAddress":"6779 Wilson Blvd, Falls Church, VA 22044",
+     "PlacePhone":"(703) 477-6807",
+     "PlaceHours": "10 AM - 9 PM",
+     "PlaceImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+     "PlaceMenu":"https://www.teadmlouge.com/menu.html",
+     "PlaceDescription": "Place Description Text"},
+
+     {
+     "PlaceID": 3,
+     "PlaceAddress":"8051 Tysons Corner Center, McLean, VA 22102",
+     "PlacePhone":"(571) 326-4382",
+     "PlaceHours": "12 PM - 7 PM",
+     "PlaceImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg",
+     "PlaceMenu":"https://www.mogeusa.com",
+     "PlaceDescription": "Place Description Text"}
+  ],
+  "Status":"OK"
+}
