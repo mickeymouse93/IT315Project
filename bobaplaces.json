@@ -3,6 +3,7 @@
   [
     {
      "PlaceID": 1,
+     "PlaceName": "Tea DM",
      "PlaceAddress":"11211 F, Lee Hway, Fairfax, VA 22030",
      "PlacePhone":"(301) 655-0837",
      "PlaceHours": "1 PM - 8 PM",
@@ -12,6 +13,7 @@
 
      {
      "PlaceID": 2,
+     "PlaceName": "Share Tea",
      "PlaceAddress":"6779 Wilson Blvd, Falls Church, VA 22044",
      "PlacePhone":"(703) 477-6807",
      "PlaceHours": "10 AM - 9 PM",
@@ -21,6 +23,7 @@
 
      {
      "PlaceID": 3,
+     "PlaceName": "Moge",
      "PlaceAddress":"8051 Tysons Corner Center, McLean, VA 22102",
      "PlacePhone":"(571) 326-4382",
      "PlaceHours": "12 PM - 7 PM",
