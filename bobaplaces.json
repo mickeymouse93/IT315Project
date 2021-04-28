@@ -31,6 +31,17 @@
      "PlaceMenu":"https://mogeteeusa.com",
      "PlaceDescription": "Place Description Text"},
     
+    {
+     "PlaceID": 4,
+     "PlaceName": "Gem Tea",
+     "PlaceAddress":"155 Maple Ave W, Vienna, VA 22180",
+     "PlacePhone":"(703) 281-2021",
+     "PlaceHours": "12 PM - 10 PM",
+     "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/gemtea.jpg",
+     "PlaceMenu":"https://www.seamless.com/menu/gemtea-155-maple-ave-w-vienna/2289833",
+     "PlaceDescription": "Place Description Text"},
+
+    
   ],
   "Status":"OK"
 }
