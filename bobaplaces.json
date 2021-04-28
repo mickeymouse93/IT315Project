@@ -19,7 +19,7 @@
      "PlaceHours": "10 AM - 9 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/sharetea.jpg",
      "PlaceMenu":"https://www.1992sharetea.com",
-     "PlaceDescription": "Place Description Text"},
+     "PlaceDescription": "Established in 1992, Sharetea started off business with to-go black tea and pearl milk tea drinks in Taipei, Taiwan. Since then Sharetea has opened many branches and franchises in 16 countries such as United States, Canada, Southeast Asia, Australia, Dubai and over 300 stores."},
 
      {
      "PlaceID": 3,
@@ -29,18 +29,7 @@
      "PlaceHours": "12 PM - 7 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/moge.jpg",
      "PlaceMenu":"https://mogeteeusa.com",
-     "PlaceDescription": "Place Description Text"},
-    
-    {
-     "PlaceID": 4,
-     "PlaceName": "Gem Tea",
-     "PlaceAddress":"155 Maple Ave W, Vienna, VA 22180",
-     "PlacePhone":"(703) 281-2021",
-     "PlaceHours": "12 PM - 10 PM",
-     "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/gemtea.jpg",
-     "PlaceMenu":"https://www.seamless.com/menu/gemtea-155-maple-ave-w-vienna/2289833",
      "PlaceDescription": "Place Description Text"}
-
     
   ],
   "Status":"OK"
