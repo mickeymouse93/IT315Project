@@ -8,7 +8,7 @@
      "PlacePhone":"(301) 655-0837",
      "PlaceHours": "1 PM - 8 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/teadm.png",
-     "PlaceMenu":"https://www.teadmlouge.com/menu.html",
+     "PlaceMenu":"http://www.teadmlounge.com",
      "PlaceDescription": "Place Description Text"},
 
      {
@@ -18,7 +18,7 @@
      "PlacePhone":"(703) 477-6807",
      "PlaceHours": "10 AM - 9 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/sharetea.jpg",
-     "PlaceMenu":"https://www.1992sharetea.com/menu/",
+     "PlaceMenu":"https://www.1992sharetea.com",
      "PlaceDescription": "Place Description Text"},
 
      {
@@ -28,7 +28,7 @@
      "PlacePhone":"(571) 326-4382",
      "PlaceHours": "12 PM - 7 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/moge.jpg",
-     "PlaceMenu":"https://www.mogeusa.com",
+     "PlaceMenu":"https://mogeteeusa.com",
      "PlaceDescription": "Place Description Text"}
   ],
   "Status":"OK"
