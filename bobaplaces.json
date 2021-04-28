@@ -29,8 +29,38 @@
      "PlaceHours": "12 PM - 7 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/moge.jpg",
      "PlaceMenu":"https://mogeteeusa.com",
-     "PlaceDescription": "Moge Tee shops offering a variety of hot and cold teas, including bubble tea, cheese tea and fruit tea, desserts and related items."}
+     "PlaceDescription": "Moge Tee shops offering a variety of hot and cold teas, including bubble tea, cheese tea and fruit tea, desserts and related items."},
+     
+    {
+     "PlaceID": 4,
+     "PlaceName": "Gem Tea",
+     "PlaceAddress":"155 Maple Ave W, Vienna, VA 22180",
+     "PlacePhone":"(703) 281-2021",
+     "PlaceHours": "12 PM - 10 PM",
+     "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/gemtea.jpg",
+     "PlaceMenu":"https://www.seamless.com/menu/gemtea-155-maple-ave-w-vienna/2289833",
+     "PlaceDescription": "Place Description Text"},
+
+     {
+     "PlaceID": 5,
+     "PlaceName": "Kungfu Tea",
+     "PlaceAddress":"7895 Heritage Dr, Annandale, VA 22003",
+     "PlacePhone":"(703) 992-8599",
+     "PlaceHours": "11 PM - 6:30 PM",
+     "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/sharetea.jpg",
+     "PlaceMenu":"https://www.kungfutea.com/?gclid=CjwKCAjw7J6EBhBDEiwA5UUM2sWr7Xp8kLTvJGgjJ7cpvLaNtMxxTbYdYDgw3AWbWUOGJsjrmSAvsxoC6soQAvD_BwE",
+     "PlaceDescription": "Place Description Text"},
     
+     {
+     "PlaceID": 6,
+     "PlaceName": "Gongcha Tea",
+     "PlaceAddress":"1632 Boro Pl, Mclean, VA 22102",
+     "PlacePhone":"(804) 206-3132",
+     "PlaceHours": "11 AM - 9 PM",
+     "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/gongchatea.png",
+     "PlaceMenu":"https://www.gongchausa.com",
+     "PlaceDescription": "Place Description Text"}
+
   ],
   "Status":"OK"
 }
