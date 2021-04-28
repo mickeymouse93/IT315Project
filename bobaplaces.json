@@ -9,7 +9,7 @@
      "PlaceHours": "1 PM - 8 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/teadm.png",
      "PlaceMenu":"http://www.teadmlounge.com",
-     "PlaceDescription": "Place Description Text"},
+     "PlaceDescription": "Established in 2016. Located inside Pho VA at Eden Center, we serve bubble tea, flavored tea, coffee, smoothies, and more. With the world's best teas and today's most electric beats, we're Falls Church's trendiest place to go for a refreshing drink."},
 
      {
      "PlaceID": 2,
@@ -29,7 +29,7 @@
      "PlaceHours": "12 PM - 7 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/moge.jpg",
      "PlaceMenu":"https://mogeteeusa.com",
-     "PlaceDescription": "Place Description Text"}
+     "PlaceDescription": "Moge Tee shops offering a variety of hot and cold teas, including bubble tea, cheese tea and fruit tea, desserts and related items."}
     
   ],
   "Status":"OK"
