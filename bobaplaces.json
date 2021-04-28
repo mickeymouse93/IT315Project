@@ -38,8 +38,8 @@
      "PlacePhone":"(703) 281-2021",
      "PlaceHours": "12 PM - 10 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/gemtea.jpg",
-     "PlaceMenu":"https://www.seamless.com/menu/gemtea-155-maple-ave-w-vienna/2289833",
-     "PlaceDescription": "Place Description Text"},
+     "PlaceMenu":"https://www.gemteava.com",
+     "PlaceDescription": "PGEM TEA is a renovated milk bubble tea shop. We serve milk tea with toppings of your choices, coffee, and smoothies. We also serve various Asian meals or snacks to satisfy your stomach."},
 
      {
      "PlaceID": 5,
@@ -49,7 +49,7 @@
      "PlaceHours": "11 PM - 6:30 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/sharetea.jpg",
      "PlaceMenu":"https://www.kungfutea.com/?gclid=CjwKCAjw7J6EBhBDEiwA5UUM2sWr7Xp8kLTvJGgjJ7cpvLaNtMxxTbYdYDgw3AWbWUOGJsjrmSAvsxoC6soQAvD_BwE",
-     "PlaceDescription": "Place Description Text"},
+     "PlaceDescription": "Founded in Queens, NY on April 30, 2010, we’re America’s largest bubble tea brand with over 250+ locations across the U.S. As one of the OGs of bubble tea, we maintain uncompromisingly high standards. Let’s be real."},
     
      {
      "PlaceID": 6,
@@ -59,7 +59,7 @@
      "PlaceHours": "11 AM - 9 PM",
      "PlaceImage":"https://raw.githubusercontent.com/mickeymouse93/IT315Project/main/gongchatea.png",
      "PlaceMenu":"https://www.gongchausa.com",
-     "PlaceDescription": "Place Description Text"}
+     "PlaceDescription": "Founded in 2006 in Kaohsiung, Taiwan. Gong Cha today is one of the most recognized bubble tea brands around the world. Known for quality tea and service, Gong Cha has withheld its reputation against many existing competitors."}
 
   ],
   "Status":"OK"
